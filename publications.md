@@ -13,5 +13,23 @@ based on dynamic mobile clusters,” in 2014 IEEE 3rd International Conference o
 
 
 ### Posters
+*  K. Metwaly, K. Elamrawi, E. Algizawy, M. Mahmoud, M. ElBasyouni,
+and P. Thierry, “Accelerated reverse time migration with optimized io,”
+in 2018 ISC High Performance - Asia, Frankfurt, Germany, Jun.
+2018.
+*  E. Algizawy, K. Elamrawi, K. Morad, I. Monir, M. ElBasyouni,
+K. Metwaly, and P. Thierry, “Highly scalable flexi-trace-based pre-stack
+time migration,” in IXPUG - 1st Middle East Meeting, KAUST,
+Saudi Atabia, Jun. 2018.
+*  K. Metwaly, K. Elamrawi, E. Algizawy, M. Mahmoud, M. ElBasyouni,
+and P. Thierry, “Accelerated reverse time migration with optimized io,”
+in 2017 Intel HPC Developer Conference, Denver, USA, Nov. 2017.
+*  H. El-Shishiny, E. Algizawy, A. El-Mahdy, and M. Baddar, “Road
+traffic time series analysis, modelling and forecasting based on mobile
+phonenetwork data,” in ITISE 2016 , Granada, Spain, Jun. 2016.
+*  A. Elmahdy, E. Algizawy, T. Ogawa, H. El-Shishiny, and M. Baddar,
+“High resolution traffic maps generation using cellular big data,” in
+Proceedings of the 2015 NetMob international conference - D4D, 2015.
+
 
 
