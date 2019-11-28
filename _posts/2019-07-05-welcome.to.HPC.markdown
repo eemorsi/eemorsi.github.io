@@ -10,18 +10,3 @@ Our optimized approach, however, works on reducing space used for storing the pr
 Doing the 3 propagations without keeping snapshots is beneficial for kernel optimization. We benchmarked our optimized RTM with IO compression and compared its performance to the standard, random boundaries-based and compression-based optimized RTM on Intel's latest architectures (such as Broadwell and Skylake with/out 3DNAND P4500/P4600 storage for memory snapshots); we notice significant speedup of the random boundaries-based RTM and compression-based RTM of factors of 6.3x and 2.4, respectively, compared to the conventional RTMs.
 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
