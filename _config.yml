@@ -55,7 +55,7 @@ baseurl: ""
 
 #remote_theme: thelehhman/plainwhite-jekyll
 #theme: plainwhite
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 permalink: /:title/
 
