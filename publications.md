@@ -8,9 +8,7 @@ permalink: /publications/
 *  E. Algizawy, T. Ogawa, and A. El-Mahdy, “Real-time large-scale map matching using mobile phone data,” ACM Trans. Knowl. Discov. Data, vol. 11, no. 4, pp. 52:1–52:38, Jul. 2017.
 *  A. El-Mahdy, H. ElShishiny, and E. Algizawy, “Smart traffic framework  A. El-Mahdy, H. ElShishiny, and E. Algizawy, “Smart traffic framework
 based on dynamic mobile clusters,” in 2014 IEEE 3rd International Conference on Cloud Networking (CloudNet) (CLOUDNET’14), Luxembourg, Luxemburg, Oct. 2014.
-
-
-
+* A. Ahmed, A. Alsammak, and E. Algizawy. "A New Approach to Manage and Utilize Cloud Computing Underused Resources." International Journal of Computer Applications 76, no. 11 (2013): 29-36.
 
 ### Posters
 *  K. Metwaly, K. Elamrawi, E. Algizawy, M. Mahmoud, M. ElBasyouni,
