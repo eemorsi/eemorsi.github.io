@@ -60,7 +60,13 @@ Sponge boundary condition is relatively easy to implement, in addition to having
 
 CPML roofline analysis shows that a number of the loops are bounded by the memory bandwidth. The most intensive compute components; step convolution and stencil kernel; are just above the memory line. This clearily indicate that the cache blocks are not optimized and need more tuning.
 
+###Model 
+Homogeneous model is on the left side and the BP 2004 model is on the right side, are used in this study, with the area of interest highlighted in yellow to emphasize the effect of the boundaries.
+
+![Model](boundary_conditions-Intel_reportII/model.png "model" )
+
 ### Hint:
 There is a bug in this implementation: Source injection is not implemented correctly, this causes the energy to go down and up with some numerical dispersion in the displayed images
+
 
  
